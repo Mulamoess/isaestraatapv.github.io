@@ -2,12 +2,9 @@
 site_name: ISAE STRAAT - APV
 theme:
   name: material
+  site_author: 'ISAE Straat - Hoge Raad'
+ 
   language: en  
-
-  
-  
-  
-  
   features:
     - navigation.tabs
     - navigation.sections
@@ -18,6 +15,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+
 
 
   palette:
@@ -43,6 +41,10 @@ extra:
   favicon: assets/favicon.ico
   logo: "assets/logo.png"  # Replace with the path to your logo file
 
+plugins:
+  - search:
+      lang: nl
+
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -63,3 +65,7 @@ markdown_extensions:
 
 copyright: |
   Copyright &copy;  2023 <a href="https://www.discord.gg/isaestraat"  target="_blank" rel="noopener">ISAE Straat</a>
+
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: page2.md
