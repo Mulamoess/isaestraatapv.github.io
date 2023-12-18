@@ -1,6 +1,13 @@
+
 site_name: ISAE STRAAT - APV
 theme:
   name: material
+  language: en  
+
+  
+  
+  
+  
   features:
     - navigation.tabs
     - navigation.sections
@@ -11,7 +18,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+
+
   palette:
     - scheme: default
       toggle:
@@ -32,6 +40,9 @@ extra:
       link: https://www.youtube.com/@isaenl
     - icon: fontawesome/brands/discord
       link: https://www.discord.gg/isaestraat
+  favicon: assets/favicon.ico
+  logo: "assets/logo.png"  # Replace with the path to your logo file
+
 
 markdown_extensions:
   - pymdownx.highlight:
