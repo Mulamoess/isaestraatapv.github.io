@@ -4,7 +4,7 @@ theme:
   name: material
   site_author: 'ISAE Straat - Hoge Raad'
  
-  language: en  
+  language: nl 
   features:
     - navigation.tabs
     - navigation.sections
@@ -14,8 +14,15 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.annotation
+    - dark.mode
     - content.code.copy
-
+    - toc.follow
+    - content.action.view
+    - content.action.edit
+    - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
 
 
   palette:
@@ -68,4 +75,5 @@ copyright: |
 
 nav:
   - Home: index.md
-  - Algemene Plaatselijke Verordening: page2.md
+  - Algemene Plaatselijke Verordening: APV.md
+  - Extra: xd.md
