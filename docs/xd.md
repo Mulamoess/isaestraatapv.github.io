@@ -31,4 +31,4 @@ Titel
 
 [github](https://www.youtube.com)
 
-(<b>APV</b>)
+<b>APV</b>

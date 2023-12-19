@@ -40,3 +40,4 @@ Dank voor je medewerking en veel plezier in onze stad!
             <td><a href="https://discord.gg/jYjSuFYZRd"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
 </table>
+
