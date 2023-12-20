@@ -10,9 +10,6 @@ theme:
   logo: https://cdn.discordapp.com/icons/1118530001176907838/387ee8bd98a8e5e101324653b26330be.webp?size=512
   favicon: https://cdn.discordapp.com/icons/1118530001176907838/387ee8bd98a8e5e101324653b26330be.webp?size=512
 
-
-
-
   language: nl 
   features:
     - announce.dismiss
@@ -95,8 +92,15 @@ copyright: |
 nav:
   - Wet- en Regelgeving: index.md
   - Algemene Plaatselijke Verordening: APV.md
+  - Solliciteren: sollicitaties.md
+
+
+
+
+
   - Meer: Slot.md
   - Extra: xd.md
+
 
 
   

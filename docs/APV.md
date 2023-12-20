@@ -86,7 +86,7 @@
   
     - Bij overtreding van de punten 1 tot en met 6 zal dit leiden tot een straf conform de 1e categorie.
 
-6. Het is niet toegestaan om zonder verdere intentie tot roleplay onnodig te mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig te vallen, inclusief dieren.
+6. Het is niet toegestaan om zonder verdere intentie tot roleplay onnodig te mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig te vallen.
 
 7. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal worden bestraft.
 
@@ -138,7 +138,7 @@
 1. Als burger mag je geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
 2. Mensen worden geacht geen gebruik te maken van bedrijfsvoertuigen voor illegale bezigheden, tenzij hiervoor goedkeuring is verleend door een stafflid voor een roleplayscenario.
 3. Het is niet toegestaan om met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
-4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf conform de 2e categorie.
+4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf conform de 1e categorie.
     -<b> Indien een overtreding gemaakt wordt van lid 1 t/m 3 zal dit resulteren in een straf van de 1e categorie. </b>
 
 ## Artikel 7 - Beledigingen
@@ -222,6 +222,40 @@
 <b>Bij overtreding zal gestraft worden volgens de 1e categorie en zal de desbetreffende persoon worden ontslagen en deze persoon mag dit beroep 3 dagen lang niet uitvoeren.</b>
 
 
+## Algemene Regels:
+
+1. Geen Cheats: Gebruik van cheats leidt tot een directe ban.
+2. Geen Cop-baiting: Uitlokken of uitdagen van de politie is verboden.
+3. Geen Combat Logging: De server verlaten tijdens ontvoeringen of conflicten is niet toegestaan.
+4. Geen Exploits: Misbruik van bugs of misstanden voor eigen gewin.
+5. Geen FailRP: Roleplay van lage kwaliteit, onrealistisch gedrag.
+6. Geen Metagaming: Gebruik van informatie die je karakter niet kan weten.
+7. Geen OOC-praten: Out-of-character praten is verboden.
+8. Geen RDM: Willekeurig mensen of dieren doden zonder reden.
+9. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
+10. Geen VDM: Voertuiggevecht, je wagen als wapen gebruiken.
+11. Gebruik /report voor meldingen: Verbeter de RP-ervaring door regelovertredingen te rapporteren.
+12. Geen verstorend gedrag: Mic spammen, trollen, enz. zijn niet toegestaan.
+13. Beperkt schelden: Gebruik van ernstige scheldwoorden is streng verboden.
+14. Realistisch blijven: Onrealistische situaties vermijden, zoals racen met exotische auto's door de woestijn.
+15. Verplicht een microfoon: Communiceren en roleplayen vereist een werkende microfoon.
+16. Nederlands spreken: De voertaal is Nederlands.
+17. Alleen contant geld stelen: Bankgeld kan niet gestolen worden.
+18. Zuinig met leven: Geen zelfmoord zonder reden.
+19. Geheugenverlies na respawn: Na respawn weet je niet hoe je bent gestorven.
+
+### Specifieke Regels:
+
+20. Agenten die niet in-game zijn, mogen niet deelnemen aan overvallen.
+21. Buiten-game communicatie is verboden, behalve voor overheidsdiensten in specifieke kanalen.
+22. Gebruik Twitter voor in-character berichten.
+23. Geen adverteren: Eigen servers of Discord adverteren is niet toegestaan.
+24. Geen uitwisseling op alt-accounts: Uitwisselen van geld of materiaal op alternatieve accounts is verboden.
+25. Geen voertuigen van jobs voor criminaliteit: Bijvoorbeeld geen vuilniswagen gebruiken voor criminele activiteiten.
+26. Na moord door rivaliserende bende, 24 uur geen deelname aan wraakacties of roleplay.
+27. Niet ontsnappen aan AFK-kick.
+28. Verboden ambulanciers of ANWB-medewerkers te doden of ontvoeren tijdens oproepen.
+29. Zero tolerance bij overheidsdiensten: Geen betrokkenheid bij drugs of criminele activiteiten. Verkoop of weggeven van overheidsvoorwerpen is verboden.
 
 
 
