@@ -13,16 +13,20 @@
     </thead>
     <tbody>
         <tr>
-            <td>Overheidsorganisatie	Hoge Raad ISAE Straat</td>
-            <td>Officiële naam regeling	Algemene Plaatselijke Verordening ISAE Straat</td>
+            <td>Overheidsorganisatie</td>
+            <td>Hoge Raad ISAE Straat</td>
         </tr>
         <tr>
-            <td>Officiële naam regeling	</td> 
+            <td>Officiële naam regeling</td>
             <td>Algemene Plaatselijke Verordening ISAE Straat</td>
         </tr>
         <tr>
-            <td>Vastgesteld door</td> 
-            <td>Hoge Raad - ISAE Straat</td>
+            <td>Vastgesteld door:</td> 
+            <td>Hoge Raad</td>
+        </tr>
+        <tr>
+            <td>Onderwerp:</td> 
+            <td>Publieke veiligheid</td>
         </tr>
 </table>
 
@@ -70,7 +74,7 @@
 
 6. Bans worden uitgedeeld op basis van de GTA licentie en IP-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 
-# Overtredingen - Verstoring openbare orde (RP)
+## Overtredingen - Verstoring openbare orde (RP)
 
 ## Artikel 1 - Algemene Roleplay Richtlijnen
 

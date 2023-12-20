@@ -1,4 +1,4 @@
-# Wet- en Regelgeving
+
 
 Welkom op de pagina voor de wet- en regelgeving van <b>ISAE Straat!</b>
 
@@ -40,4 +40,14 @@ Dank voor je medewerking en veel plezier in onze stad!
             <td><a href="https://discord.gg/jYjSuFYZRd"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
 </table>
+
+!!! info ""
+
+    De Algemene Plaatselijke Verordening (APV) is opgesteld namens de Hoge Raad en is van toepassing op het eiland, de gemeente en de stad genaamd "ISAE Straat".
+
+
+
+
+
+
 
