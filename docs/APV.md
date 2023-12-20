@@ -76,7 +76,7 @@
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
-## Artikel 1 - Algemene Roleplay Richtlijnen
+## Artikel 1 - Roleplay Gedragsregels
 
 1. Het is verboden om deel te nemen aan roleplay van aanzienlijk lage kwaliteit of gedrag te vertonen dat de roleplayervaring verstoort.
 2. Het is niet toegestaan om opzettelijk de roleplay zodanig te sturen dat er een onrechtvaardige of onrealistische wending aan het verhaal wordt gegeven, of om de roleplay van andere deelnemers te beïnvloeden door middel van onrealistische dwang.
@@ -100,25 +100,21 @@
     - Een politieagent ontvoeren met als doel een signalering te verwijderen of toegang te krijgen tot het politiesysteem (MEOS).
     - Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en deze aan jou of iemand anders af te geven.
 
-## Artikel 2 - Cheats, Exploits & Meta-gaming
+## Artikel 2 - Hacks & Metagaming
 
 1. Hij/zij die gebruikmaakt van software/hulpmiddelen (cheats) van derde partijen om oneerlijk voordeel te behalen in het spel, wordt gestraft volgens de 9e categorie.
     - Deze regel is ook van toepassing op de Discord-client zelf, wat betekent dat het gebruik van clients zoals BetterDiscord, Vencord niet is toegestaan.
 2. Hij/zij die opzettelijk een bug en/of exploit misbruikt om voor zichzelf of anderen voordeel te behalen, of in-game functionaliteiten omzeilt, ongeacht de middelen, zal onmiddellijk worden gestraft volgens de 9e categorie.
 3. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter. Bij overtreding zal gestraft worden volgens de 3e categorie.**
 4. Informatie die buiten het karakter is verkregen (alle informatie die niet door jouw karakter binnen FiveM is verkregen), mag niet worden gebruikt door het karakter. Bij overtreding van deze regel zal gestraft worden volgens de 6e categorie.
-
-
-                                                                         
+                                                                 
 <b>Straf kan hoger uitvallen afhankelijk van de ernst van het plegen van metagaming.</b>
-
-
 
 1. Het is niet toegestaan om externe Discords te gebruiken voor roleplay-gerelateerde zaken zonder voorafgaande toestemming van het personeel, inclusief het gebruik van sheets en andere onderlinge zaken. Overtreding van deze regel zal bestraft worden volgens lid 3. Eigenaren van externe Discords waarin metagaming plaatsvindt, zullen een straf ontvangen volgens de 9e categorie.
 2. Wanneer je met meerdere mensen die op ISAE Straat spelen in een voicecall zit, is streamen niet toegestaan, en je moet gedeafened en gemute zijn. Als één persoon in-game is en de rest niet, en je besluit toch in een call te zitten zonder gedeafened/gemute te zijn, ben je in overtreding van deze regel, zoals aangeduid in lid 3.
 3. Het streamen van de main server in een Discord-server is nooit toegestaan, tenzij je expliciete toestemming hebt van een stafflid.
 
-## Artikel 3 - (Overheids) kleding
+## Artikel 3 - Outfits
 1. Bij het creëren van je personage is het verplicht om de standaardkleding te veranderen; je mag de server niet betreden met de startkleding. Zorg er bovendien voor dat je personage er realistisch uitziet, dat de armen bij de outfit passen en dat er geen ontbrekende lichaamsdelen zijn bij jouw personage.
 2. Werknemers worden geacht de kleding te dragen die is verstrekt door hun werkgever voor de uitoefening van hun beroep.
 3. Het is verboden voor niet-ambtenaren om kleding te dragen die specifiek is toegewezen aan een van de overheidsbanen, tenzij er een passende roleplay aan verbonden is die is goedgekeurd door een stafflid.
@@ -128,15 +124,9 @@
 
 ## Artikel 4 - Combatloggen
 1. Het is verboden tijdens een roleplay moedwillig de game te verlaten zonder geldige reden. Het wordt verwacht dat je binnen 5 minuten terug bent. Als je dit niet doet, zal er een straf worden opgelegd volgens de 6e categorie.
-2. Het is de bedoeling dat, indien je de game wilt verlaten tijdens een roleplay, je ervoor zorgt dat de deelnemers aan de roleplay hiervan op de hoogte zijn. Probeer dit eerst te communiceren via "/me (uitleg)". Als dit niet mogelijk is, kan het ook via spraak worden vermeld.
+2. Het is de bedoeling dat als je de game wilt verlaten tijdens een roleplay, je ervoor zorgt dat de deelnemers aan de roleplay hiervan op de hoogte zijn. Probeer dit eerst te communiceren via "/me (uitleg)". Als dit niet mogelijk is, kan het ook via spraak worden vermeld. 
 
-## Artikel 5 - Nederlandse Taal
-1. Spelers worden verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand deze talen niet beheerst, is deze persoon niet welkom op de server.
-2. Andere talen dan het Nederlands en het Engels mogen niet worden gebruikt op een provocerende of beledigende manier tijdens de roleplay.
-3. Tijdens een gesprek met staff of overheidsfunctionarissen dient de betrokkene te allen tijde Nederlands te spreken, indien de medewerker dit wenst. Als de persoon de Nederlandse taal niet beheerst, moet er iemand aanwezig zijn die namens hem in het Nederlands kan spreken.
-
-
-## Artikel 6 - Report gebruik
+## Artikel 5 - Report misbruik
 
 1. Het wordt van deelnemers verwacht dat ze "/report" gebruiken om overtredingen van de regels te melden. Dit zorgt ervoor dat de overtreder niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
 2. Bij het indienen van een melding (report) is het niet de bedoeling om dit in het spel aan andere mensen te melden. Als dit wel wordt gedaan, kan een stafflid mogelijk geen straffen opleggen, omdat de betrokken persoon dan op de hoogte is van het toezicht. Bovendien wordt het vermelden van het indienen van een melding beschouwd als FailRP (out-of-character gaan in roleplay).
@@ -144,22 +134,19 @@
 
 <b>Bij overtreding zal er een straf uitgedeeld worden volgens de 1e categorie.</b>
 
-## Artikel 7 - Alt Characters
-1. Het is verboden alternatieve personages (alt characters) aan te maken met de intentie het startbedrag over te schrijven naar het account waar normaal gespeeld wordt. Bovendien is het eveneens verboden om meer dan 1 account aan te maken. Indien toestemming van Hoge Raad of hoger.
-
-## Artikel 8 - Gebruik van voertuigen
+## Artikel 6 - Vervoersprotocollen
 1. Als burger mag je geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
 2. Mensen worden geacht geen gebruik te maken van bedrijfsvoertuigen voor illegale bezigheden, tenzij hiervoor goedkeuring is verleend door een stafflid voor een roleplayscenario.
 3. Het is niet toegestaan om met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf conform de 2e categorie.
     -<b> Indien een overtreding gemaakt wordt van lid 1 t/m 3 zal dit resulteren in een straf van de 1e categorie. </b>
 
-## Artikel 9 - Belediging
+## Artikel 7 - Beledigingen
 1. Een persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen maakt of andere ongepaste opmerkingen plaatst, wordt bestraft met een ban volgens de 9e categorie. Deze regel is eveneens van kracht op Steam-, Discord- en karakternamen.
 2. Het is tevens niet toegestaan om op de ISAE Straat erkende platforms toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 3. Op lid 1 geldt een uitzondering voor het schelden met hedendaagse relevante ziektes. Bij de eerste overtreding zal dit bestraft worden met een ban van 3 dagen. Bij de tweede overtreding zal de persoon bestraft worden met een ban van 1 week, en bij de derde overtreding zal het leiden tot een ban van een maand.
 
-## Artikel 10 - Overvallen & Oplichten
+## Artikel 8 - Oplichten & Overvallen
 1. Het overvallen of oplichten van mensen is verboden, tenzij de betreffende persoon bezig is met criminele activiteiten.
 2. Met betrekking tot de volgende situaties is overvallen of oplichten niet toegestaan:
     - Het stelen of overvallen van bankgeld is niet toegestaan.
@@ -174,7 +161,7 @@
 
 <b>Bij overtreding van deze regels zal er een straf volgens de 1e categorie worden opgelegd.</b>
 
-## Artikel 11 - Gedrag van Ambtenaren
+## Artikel 9 - Gedrag van Overheidsinstantie's
 1. Een ambtenaar wordt gezien als bijvoorbeeld: 
  - Politie
  - Koninklijke Marechaussee
@@ -188,7 +175,7 @@
 
 <b>Bij overtreding van lid 1 en/of 2 zal gestraft worden volgens de 6e categorie.</b>
  
-## Artikel 12 - Gedrag tegen overheidsmedewerkers
+## Artikel 10 - Gedrag tegen Overheidsinstantie's
  
  1. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn.
  2. Roleplay met de ANWB, Ambulance moet uitgebreid en realistisch zijn. Je dient ook samen te werken met de roleplay en de medewerkers niet te dwingen om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
@@ -197,15 +184,15 @@
  6. Een uitzondering op lid 4 geldt voor de Ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
  7. Een officiële criminele organisatie heeft de mogelijkheid om een ambulancemedewerker te ontvoeren vanaf 4 ambulancemedewerkers in dienst. Hierbij dient echter een goede roleplay aan vast te zitten in plaats van een snelle confrontatie. Als blijkt dat er geen roleplay aan verbonden is, zoals alleen een melding maken en de ambulancemedewerker snel laten handelen zodat het wapen direct verdwijnt, zal dit bestraft worden volgens de 5e categorie. Bij herhaling kan dit leiden tot zwaardere straffen.
 
-## Artikel 13 - Roleplay & Ledenaantal Criminele Organisaties
+## Artikel 11 - Roleplay & Ledenaantal Criminele Organisaties
 
  1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in ISAE Straat.
- 2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierbij is er een vrije keuze voor het aantal leden met de "hangaround" rang.
+ 2. Criminele organisaties mogen een maximaal ledenaantal van 15 personen hebben.
  3. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking ontstaat tussen alle organisaties, en dit mag zeker niet plaatsvinden tijdens het witwassen van geld.
  4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie, dient dit gemeld te worden volgens het vastgestelde format in het daarvoor aangemaakte kanaal in de ISAE Straat Discord.
  5. Wanneer de leden van een server-ondersteunde organisatie opvallend negatief gedrag vertonen, zoals herhaaldelijk combat-gedrag in plaats van roleplay, te veel waarschuwingen, enz. zal een superadmin of hoger beslissen over een passende straf voor deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
-## Artikel 14 - Ontsnappen uit het cellencomplex
+## Artikel 12 - Ontvluchten van de gevangenisfaciliteit
 1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplay scenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdgebrek of andere beperkingen.
 3. Het is verboden om tussen 00:30 en 12:00 uit het cellencomplex te breken.
@@ -213,7 +200,7 @@
 
 <b>Bij overtreding zal gestraft worden volgens de 1e categorie.</b>
 
-## Artikel 15 - Winkel- en bankovervallen & overige criminaliteit
+## Artikel 13 - Winkel- en bankovervallen & overige criminaliteit
 1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 2. Probeer op alle mogelijke manieren een vuurgevecht te vermijden en onderhandel eerst met de politie.
 3. Een liquidatie mag niet worden uitgevoerd zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij nog leeft, waarom diegene geliquideerd wordt.
@@ -221,13 +208,13 @@
 
 <b>Bij overtreding zal gestraft worden volgens de 1e categorie.</b>
 
-## Artikel 16 - Officiële gang regels
+## Artikel 14 - Officiële gang regels
 1. Het is verboden om nepmeldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
 2. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden. Het confisqueren van overheidsobjecten is niet toegestaan.
 
 <b> Hierbij zal er door de Onderwereld Coordinator gekeken worden naar de ernst ervan, en op basis daarvan zullen individuele straffen of straffen voor de gehele organisatie worden opgelegd.</b>
 
-## Artikel 17 - Jobhoppen
+## Artikel 15 - Carrièrewisselingen
 1. (Ex-)leden van een criminele organisatie dienen minimaal 48 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 48 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
 3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.

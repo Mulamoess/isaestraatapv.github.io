@@ -25,7 +25,7 @@ theme:
     - content.tooltips
     # - header.autohide
     # - navigation.expand
-    # navigation.footer
+    # - navigation.footer
     - navigation.indexes
     # - navigation.instant
     # - navigation.instant.prefetch
@@ -95,6 +95,8 @@ copyright: |
 nav:
   - Wet- en Regelgeving: index.md
   - Algemene Plaatselijke Verordening: APV.md
+  - Meer: Slot.md
   - Extra: xd.md
+
 
   
