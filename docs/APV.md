@@ -54,7 +54,7 @@
 
 1. De straffen zijn onderverdeeld in 9 categorieën: 
 
-    - Categorie 1: Een waarschuwing + 50 uur taakstraf
+    - Categorie 1: Een waarschuwing + 25 uur taakstraf
     - Categorie 2: Een ban maximaal 10 uur
     - Categorie 3: Een ban van maximaal 1 dag
     - Categorie 4: Een ban van maximaal 2 dagen

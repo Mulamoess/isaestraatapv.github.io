@@ -27,6 +27,7 @@ theme:
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
+    
     # - navigation.prune
     - navigation.sections
     # - navigation.tabs
@@ -90,15 +91,20 @@ copyright: |
   Copyright &copy;  2023 <a href="https://www.discord.gg/isaestraat"  target="_blank" rel="noopener">ISAE Straat</a>
 
 nav:
-  - Wet- en Regelgeving: index.md
+  - Homepagina: index.md
   - Algemene Plaatselijke Verordening: APV.md
-  - Solliciteren: sollicitaties.md
+  - Wetboek van Strafrecht: WVS.md
+ 
+ 
+ 
+ 
+ 
+  - Wetboek: wetboek.md
+  - Wetboek van Strafrecht: WVS.md
 
 
 
 
-
-  - Meer: Slot.md
   - Extra: xd.md
 
 
