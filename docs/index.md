@@ -69,7 +69,7 @@ Dank voor je medewerking en veel plezier in onze stad!
         </tr>
         <tr>
             <td>Ambulance Sollicitatie's</td>
-            <td>Overheids Coördinator</td>
+            <td>Overheids Coördinator & Teejay</td>
             <td><a href="https://forms.gle/srjV6MujMYvXCHe39"  target="_blank" rel="noopener">Solliciteren</a></td>
         </tr>
 </table>

@@ -23,10 +23,9 @@ theme:
     # - navigation.expand
     # - navigation.footer
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
-    
     # - navigation.prune
     - navigation.sections
     # - navigation.tabs
@@ -94,4 +93,16 @@ nav:
   - Algemene Plaatselijke Verordening: APV.md
   - Wetboek van Strafrecht: WVS.md
   - Wetboek van Strafvordering: WSV.md
+
+  - Wet Wapens en Munitie: WWM.md
+  - Opiumwet: OW.md
+  - Algemene Douanewet (Adw): AD.md
+  - Verkeersregelgeving: 
+    - Wegenverkeerswet 1994: Verkeersregelgeving/Wegenverkeerswet 1994.md
+    - Wet Mulder: Verkeersregelgeving/Wet Mulder.md
+    - RVV 1990: Verkeersregelgeving/RVV 1990.md
+    - Reglement rijbewijzen: Verkeersregelgeving/Reglement rijbewijzen.md
+    - Reglement voertuigen: Verkeersregelgeving/Reglement voertuigen.md
+    - Regeling maatregelen rijvaardigheid en geschiktheid 2011: Verkeersregelgeving/Regeling maatregelen rijvaardigheid en geschiktheid 2011.md
+    - Besluit voertuigen: Verkeersregelgeving/Besluit voertuigen.md
 
