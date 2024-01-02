@@ -16,7 +16,7 @@ Het lijkt erop dat je informatie geeft over hoe de wet wordt toegepast in het ge
 
 #### Artikel 2 Opw [Verbodsbepaling. Lijst I, aangewezen middelen]
 Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I:
-A. Binnen of buiten het grondgebied van Future te brengen.
+A. Binnen of buiten het grondgebied van ISAE Straat te brengen.
 B. Te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren.
 C. Aanwezig te hebben.
 D. Te vervaardigen.
