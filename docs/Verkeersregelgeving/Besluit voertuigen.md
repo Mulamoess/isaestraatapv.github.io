@@ -1,7 +1,7 @@
 ## Besluit voertuigen
 ### Hoofdstuk 1 Algemene bepalingen
 #### Artikel 1 BV [Definitie]
-In dit besluit en de daarop berustende bepalingen worden de volgende termen als volgt gedefinieerd:
+1. In dit besluit en de daarop berustende bepalingen worden de volgende termen als volgt gedefinieerd:
     - Wet: <a href="https://isaestraat.nl/Verkeersregelgeving/Wegenverkeerswet%201994/">Wegenverkeerswet 1994</a>
 
 ### Hoofdstuk 3 Periodieke keuring van voertuigen
