@@ -90,13 +90,16 @@ copyright: |
 
 nav:
   - Homepagina: index.md
-  - Algemene Plaatselijke Verordening: APV.md
-  - Wetboek van Strafrecht: WVS.md
-  - Wetboek van Strafvordering: WSV.md
-
-  - Wet Wapens en Munitie: WWM.md
-  - Opiumwet: OW.md
-  - Algemene Douanewet (Adw): AD.md
+  - APV:
+    - Algemene Plaatselijke Verordening: APV/APV.md
+    - Creators: APV/Creators.md
+  - Wetten:
+    - Wetboek van Strafrecht: Wetten/WVS.md
+    - Wetboek van Strafvordering: Wetten/WSV.md
+    - Wet Wapens en Munitie: Wetten/WWM.md
+    - Opiumwet: Wetten/OW.md
+    - Algemene Douanewet (Adw): Wetten/AD.md
+    - Douanegebieden: Wetten/douanegebieden.md
   - Verkeersregelgeving: 
     - Wegenverkeerswet 1994: Verkeersregelgeving\Wegenverkeerswet 1994.md
     - Wet Mulder: Verkeersregelgeving/Wet Mulder.md
@@ -105,5 +108,10 @@ nav:
     - Reglement voertuigen: Verkeersregelgeving/Reglement voertuigen.md
     - Regeling maatregelen rijvaardigheid en geschiktheid 2011: Verkeersregelgeving/Regeling maatregelen rijvaardigheid en geschiktheid 2011.md
     - Besluit voertuigen: Verkeersregelgeving/Besluit voertuigen.md
+  - Boetes & Prijzenlijsten:
+    - Politie: Boetes & Prijzenlijsten/Politie.md
+    - ANWB: Boetes & Prijzenlijsten/ANWB.md
 
-  - Strafvorderingrichtlijnen: Strafvorderingrichtlijnen.md
+
+
+
