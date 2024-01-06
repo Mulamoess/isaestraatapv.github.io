@@ -19,18 +19,10 @@ Dit document is opgesteld om duidelijkheid te verschaffen over het creëren van 
 
 ## Sancties
 
-* Bij het tonen van alle drugsgerelateerde locaties op het vasteland van ISAE Straat zal bij de eerste overtreding een straf volgens de 5e categorie worden uitgedeeld. Bij een volgende overtreding zal er overgegaan worden naar een straf: <b>Categorie 6: Een ban van maximaal 1 week
-</b>
+* Bij het tonen van alle drugsgerelateerde locaties op het vasteland van ISAE Straat zal er gestraft worden met: <b>Categorie 6: Een ban van maximaal 1 week</b>
+* Bij het tonen van inhoudelijke informatie op de telefoon, zoals nummers, deepwebkanalen, enz., zal bij de eerste overtreding een straf: <b>Categorie 6: Een ban van maximaal 1 week</b>  
+* Wanneer een deepwebkanaal dat is aangemaakt door ISAE Straat zelf, bijvoorbeeld een witwaskanaal, wordt getoond, zal een straf: <b>Categorie 3: Een ban van maximaal 1 dag.</b>
+* Wanneer tijdens een livestream geen gebruik wordt gemaakt van de streamermodus. Straf: <b>Categorie 2: Een ban maximaal 10 uur.</b>
+!!! info ""
 
-* Bij het tonen van inhoudelijke informatie op de telefoon, zoals nummers, deepwebkanalen, enz., zal bij de eerste overtreding een straf: <b>Categorie 6: Een ban van maximaal 1 week
-</b> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 
-Bij herhaaldelijke overtreding kan, ter beoordeling van een stafflid, de straf verhoogd worden.
-
-
-
-
-* Wanneer een deepwebkanaal dat is aangemaakt door ISAE Straat zelf, bijvoorbeeld een witwaskanaal, wordt getoond, zal een straf: <b>Categorie 3: Een ban van maximaal 1 dag.</b>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 
-Bij herhaaldelijke overtreding kan, ter beoordeling van een stafflid, de straf verhoogd worden.
-
-* Wanneer tijdens een livestream geen gebruik wordt gemaakt van de streamermodus. Straf: <b>Categorie 2: Een ban maximaal 10 uur.</b>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-Bij herhaaldelijke overtreding kan, ter beoordeling van een stafflid, de straf verhoogd worden.
+    Bij herhaaldelijke overtreding kan, ter beoordeling van een stafflid, de straf verhoogd worden.
