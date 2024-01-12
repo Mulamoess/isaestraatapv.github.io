@@ -117,7 +117,7 @@ GS = Gevangenisstraf
 | Moord op een overheidsmedewerker | € 25000,- + 60 GS|€ 30000,- + 80 GS|€ 35000,- + 100 GS|€ 40000,- + 120 GS|
 | Overval | € 20000,- + 25 GS|€ 25000,- + 50 GS|€ 30000,- + 75 GS|€ 40000,- + 100 GS|
 | Witwassen | € 50000,- | € 65000,- + 25 GS|€ 75000,- + 35 GS|€ 100000,- + 40 GS|
-| Betreden van verboden militair domein | € 10000,- |€ 15000,- |20000,- | € 10000,- + 25 G|
+| Betreden van verboden militair domein | € 10000,- |€ 15000,- |20000,- | € 10000,- + 25 GS|
 
 !!! info ""
 
