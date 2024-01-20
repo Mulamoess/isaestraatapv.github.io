@@ -52,7 +52,7 @@ Dank voor je medewerking en veel plezier in onze stad!
     <thead>
         <tr>
             <th>Overheidsintstantie:</th>
-            <th>Sollicitatie Pagina:</th>
+            <th>Sollicitatie pagina:</th>
         </tr>
     </thead>
     <tbody>
