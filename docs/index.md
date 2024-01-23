@@ -37,7 +37,7 @@ Dank voor je medewerking en veel plezier in onze stad!
         <tr>
             <td>ISAE Straat Overheid</td>
             <td>Overheidsinstanties discord server van ISAE Straat</td>
-            <td><a href="https://discord.gg/jYjSuFYZRd"  target="_blank" rel="noopener">Invite</a></td>
+            <td><a href="https://discord.gg/X3ddxvgcWd"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
 </table>
 
