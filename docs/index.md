@@ -43,7 +43,7 @@ Dank voor je medewerking en veel plezier in onze stad!
 
 !!! info ""
 
-    De Algemene Plaatselijke Verordening (APV) is opgesteld namens de Hoge Raad en is van toepassing op het eiland, de gemeente en de stad genaamd "ISAE Straat".
+    De algemene plaatselijke verordening (APV) is opgesteld namens de Hoge Raad en is van toepassing op het eiland, de gemeente en de stad genaamd "ISAE Straat".
 
 
 ## Overheids Sollicitatie's
