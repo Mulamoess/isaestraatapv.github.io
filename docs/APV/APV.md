@@ -73,6 +73,8 @@
 
 6. Bans worden uitgedeeld op basis van de GTA licentie en IP-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 
+7. Bugabus
+
 ## Overtredingen - Verstoring openbare orde (RP)
 
 ## Artikel 1 - Roleplay Gedragsregels
@@ -119,7 +121,7 @@
     <thead>
         <tr>
             <th>Straf:</th>
-            <th><b>Categorie 9: Permanente ban</b></th>
+            <th><b>Categorie 9: Permanente ban + Accountwipe</b></th>
         </tr>
     </thead>
 </table>
@@ -323,6 +325,13 @@
     </thead>
 </table>
 <b>Straf kan hoger uitvallen afhankelijk van de ernst van het plegen van metagaming.</b>
+
+## Artikel 16 - No Value of life
+1. Degene die geen waarde hecht aan het leven van zijn karakter zal worden gestraft met een straf uit de 2e categorie.
+2. Dit word ook wel ***No Value of Life** genoemd.
+3. Voorbeelden:
+<ul><li><p>Binnen 10 meter afstand van iemand die een vuurwapen op je richt, zonder beschutting, dien je stil te blijven staan en mee te werken zonder de persoon aan te vallen.</p></li><li><p>Bij het zien van een steek- of slagwapen binnen armlengte afstand, dien je ook mee te werken. 
+Het niet meewerken wordt beschouwd als het niet waarderen van je eigen leven, omdat je bewust het risico neemt om neergestoken of neergeslagen te worden.</p></li><li><p>Bij dreiging met een wapen is het niet toegestaan om je portofoon te gebruiken of je telefoon te raadplegen.</p></li><li><p>Helikopters mogen alleen vlak boven de grond zweven voor goederen- of personentransport.</p></li><li><p>Elke actie die bewust je eigen leven in gevaar brengt, wordt beschouwd als 'no value of life'. Gebruik daarom je gezond verstand om de situatie te beoordelen.</p></li><li><p>Als een persoon een wapen vasthoudt en je probeert hem te boeien of naar hem toe te rennen, wordt dit beschouwd als 'no value of life', tenzij je weet dat die persoon een vuur-, steek- of slagwapen bij zich heeft en je hem/haar moet overmeesteren.</p></li><li><p>Het indrukken van de noodknop terwijl je bedreigd wordt met een vuurwapen, steekwapen of slagwapen wordt beschouwd als 'no value of life'.</p></li><li><p>Het niet meewerken van een persoon in een voertuig met gesloten deuren, die van buitenaf bedreigd wordt met een steek- of slagwapen, wordt niet beschouwd als 'no value of life'.</p></li><li><p>Ook wordt het niet beschouwd als 'no value of life' om een vuurwapen te trekken als je bedreigd wordt met een steek- of slagwapen buiten armlengte.</p></li><li><p>Bij dreiging met een automatisch wapen dien je te allen tijde mee te werken en niet meer te bewegen.</p></li><li><p>De beslissing van het personeel met betrekking tot alle bovengenoemde situaties is altijd bindend.</p></li><li><p>Als je lid bent van de DSI en in een kogelvrij voertuig rijdt, moeten er minstens twee wapens op je gericht zijn. Als dit niet het geval is, hoef je geen gehoor te geven aan deze regel.</p></li></ul>
 
 ## Algemene Regels:
 
