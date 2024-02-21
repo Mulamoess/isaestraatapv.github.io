@@ -365,6 +365,7 @@ Het niet meewerken wordt beschouwd als het niet waarderen van je eigen leven, om
 18. Zuinig met leven: Geen zelfmoord zonder reden.
 19. Geheugenverlies na respawn: Na respawn weet je niet hoe je bent gestorven.
 20. Donatie voertuigen uit de shop mogen **niet** door verkocht worden. (Accountwipe) 
+21. Als je in dienst bent bij een overheidsinstantie, maar niet aan het werk bent dan zien we dit als moneyfarmen. (Accountwipe)
 
 ### Specifieke Regels:
 
