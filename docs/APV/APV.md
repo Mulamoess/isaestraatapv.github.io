@@ -210,6 +210,7 @@
 3. De koper is verantwoordelijk voor het controleren of de aangeboden aanpassingen (tunes) op het voertuig aanwezig zijn op het moment van overdracht in een modshop.
 4. Het tegengaan (counteren) van eval en/of gijzeling is niet toegestaan zodra politie en/of Koninklijke Marechaussee (KMAR) ter plaatse is.
 5. Het oplichten van een persoon, het kopen en verkopen van wapens, het kopen en verkopen van drugs, het vermoorden of ontvoeren van een persoon, en het gebruik van een wapen zijn verboden in een appartement.
+6. Je mag maximaal 20 zakjes drugs van iemand stelen.
 
 <table border="1">
     <thead>
@@ -363,6 +364,7 @@ Het niet meewerken wordt beschouwd als het niet waarderen van je eigen leven, om
 17. Alleen contant geld stelen: Bankgeld kan niet gestolen worden.
 18. Zuinig met leven: Geen zelfmoord zonder reden.
 19. Geheugenverlies na respawn: Na respawn weet je niet hoe je bent gestorven.
+20. Donatie voertuigen uit de shop mogen **niet** door verkocht worden. (Accountwipe) 
 
 ### Specifieke Regels:
 
