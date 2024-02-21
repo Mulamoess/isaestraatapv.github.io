@@ -4,7 +4,7 @@ Welkom op de pagina voor de wet- en regelgeving van <b>ISAE Straat!</b>
 
 Op deze pagina kun je een overzicht vinden van alle regels die van toepassing zijn in onze stad, zowel op het gebied van roleplay als de serverregels.
 
-De Algemene Plaatselijke Verordening (<b>APV</b>) omvat alle regels die specifiek van toepassing zijn op de server. Dit omvat richtlijnen en voorschriften die deel uitmaken van het algemene functioneren van de servergemeenschap.
+De algemene plaatselijke verordening (<b>APV</b>) omvat alle regels die specifiek van toepassing zijn op de server. Dit omvat richtlijnen en voorschriften die deel uitmaken van het algemene functioneren van de servergemeenschap.
 
 Bovendien bestaan er specifieke regels die betrekking hebben op verschillende aspecten en situaties. Deze regels zijn geformuleerd om uiteenlopende kwesties te reguleren en dragen bij aan het creëren van een geordende en respectvolle omgeving voor alle deelnemers.
 
