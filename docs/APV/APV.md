@@ -211,6 +211,7 @@
 4. Het tegengaan (counteren) van eval en/of gijzeling is niet toegestaan zodra politie en/of Koninklijke Marechaussee (KMAR) ter plaatse is.
 5. Het oplichten van een persoon, het kopen en verkopen van wapens, het kopen en verkopen van drugs, het vermoorden of ontvoeren van een persoon, en het gebruik van een wapen zijn verboden in een appartement.
 6. Je mag maximaal 20 zakjes drugs van iemand stelen.
+7. Je mag maximaal een bedrag van €5000,- van iemand stelen.
 
 <table border="1">
     <thead>
@@ -366,6 +367,7 @@ Het niet meewerken wordt beschouwd als het niet waarderen van je eigen leven, om
 19. Geheugenverlies na respawn: Na respawn weet je niet hoe je bent gestorven.
 20. Donatie voertuigen uit de shop mogen **niet** door verkocht worden. (Accountwipe) 
 21. Als je in dienst bent bij een overheidsinstantie, maar niet aan het werk bent dan zien we dit als moneyfarmen. (Accountwipe)
+
 
 ### Specifieke Regels:
 
