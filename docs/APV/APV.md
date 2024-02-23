@@ -210,7 +210,7 @@
 3. De koper is verantwoordelijk voor het controleren of de aangeboden aanpassingen (tunes) op het voertuig aanwezig zijn op het moment van overdracht in een modshop.
 4. Het tegengaan (counteren) van eval en/of gijzeling is niet toegestaan zodra politie en/of Koninklijke Marechaussee (KMAR) ter plaatse is.
 5. Het oplichten van een persoon, het kopen en verkopen van wapens, het kopen en verkopen van drugs, het vermoorden of ontvoeren van een persoon, en het gebruik van een wapen zijn verboden in een appartement.
-6. Je mag maximaal 20 zakjes drugs van iemand stelen.
+6. Je mag maximaal 20 drugs items van iemand stelen.
 7. Je mag maximaal een bedrag van €5000,- van iemand stelen.
 
 <table border="1">

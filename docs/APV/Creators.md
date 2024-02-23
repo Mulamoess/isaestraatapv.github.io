@@ -14,14 +14,12 @@ Dit document is opgesteld om duidelijkheid te verschaffen over het creëren van 
 8. Het is niet toegestaan om de locaties van drugs op het vasteland van ISAE Straat te tonen in video's of livestreams.
     - Bij het bezorgsysteem van drugs gaat het alleen om het tonen van het startpunt op het vasteland van ISAE Straat, wat niet is toegestaan in video's of livestreams.
 9. Het is niet toegestaan voor content creators vanuit overheidsdiensten om Discord-porto te laten horen op video's of livestreams.
-10. Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's.
-11. Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. Hiermee wordt informatie zoals vermeld in lid 10 verborgen.
+10. Alles met betrekking tot content hoeft niet via een ticket te worden gemeld. Je moet contact opnemen met de Content Manager.
+11. Out-of-character (OOC) praten is sowieso niet toegestaan, omdat dit een dagelijks terugkerend fenomeen is onder de content creators.
 12. Je dient ten alle tijden de Content Manager contacteren als er kloters zijn.
 13. Als je tegen je chat praat, zorg ervoor dat je **Push to Talk** gebruikt. Zodat je niet ingame te horen bent.
 14. Er zal nooit door het staffteam wapens worden wapens of belangrijke items gegeven.
 15. Als je een scenario wilt, moet je afspraken maken met de content manager, die vervolgens het nodige regelt met het korps en andere betrokkenen.
-16. Out-of-character (OOC) praten is sowieso niet toegestaan, omdat dit een dagelijks terugkerend fenomeen is onder de content creators.
-17. Alles met betrekking tot content hoeft niet via een ticket te worden gemeld. Je moet contact opnemen met de Content Manager.
 
 
 
