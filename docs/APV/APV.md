@@ -211,9 +211,11 @@
 4. Het tegengaan (counteren) van eval en/of gijzeling is niet toegestaan zodra politie en/of Koninklijke Marechaussee (KMAR) ter plaatse is.
 5. Het oplichten van een persoon, het kopen en verkopen van wapens, het kopen en verkopen van drugs, het vermoorden of ontvoeren van een persoon, en het gebruik van een wapen zijn verboden in een appartement.
 6. Het overvallen op locaties voor criminele activiteiten mag altijd gedaan worden met een maximum van 20 voorwerpen/producten die gebruikt voor  een criminele activiteit.
-7. Het overvallen van een persoon mag alleen gedaan worden, bij het zien van een desbetreffend wapen of het dragen van gezichtsbedekking of een holster.
-8. 7. Je mag maximaal een bedrag van €5000,- van iemand stelen. (Zwartgeld €20.000)
-
+7. Het overvallen van een persoon mag alleen gedaan worden, bij het zien van een desbetreffend wapen of het dragen van gezichtsbedekking of een holster. Dit kan ook wanneer een persoon aangeeft dat hij een item bij zich heeft dat gebruikt kan worden als wapen.
+8. Je mag maximaal een bedrag van €5000,- van iemand stelen. (Zwartgeld €20.000)
+9. Op het moment dat er iemand is geript
+10. Het vermoorden van een persoon is niet toegestaan, nadat hij is overvallen.  
+11. De toegestane oplichtingspraktijken zijn enkel geoorloofd indien ze gerelateerd zijn aan criminele activiteiten.
 
 
 <table border="1">
