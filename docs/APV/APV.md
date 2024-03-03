@@ -222,7 +222,7 @@
     <thead>
         <tr>
             <th>Straf:</th>
-            <th><b>Categorie 1: Een waarschuwing + 25 uur taakstraf</b></th>
+            <th><b>Categorie 2: Een ban maximaal 10 uur</b></th>
         </tr>
     </thead>
 </table>
