@@ -213,9 +213,9 @@
 6. Het overvallen op locaties voor criminele activiteiten mag altijd gedaan worden met een maximum van 20 voorwerpen/producten die gebruikt voor  een criminele activiteit.
 7. Het overvallen van een persoon mag alleen gedaan worden, bij het zien van een desbetreffend wapen of het dragen van gezichtsbedekking of een holster. Dit kan ook wanneer een persoon aangeeft dat hij een item bij zich heeft dat gebruikt kan worden als wapen.
 8. Je mag maximaal een bedrag van €5000,- van iemand stelen. (Zwartgeld €20.000)
-9. Op het moment dat er iemand is geript
-10. Het vermoorden van een persoon is niet toegestaan, nadat hij is overvallen.  
-11. De toegestane oplichtingspraktijken zijn enkel geoorloofd indien ze gerelateerd zijn aan criminele activiteiten.
+10. De toegestane oplichtingspraktijken zijn enkel geoorloofd indien ze gerelateerd zijn aan criminele activiteiten.
+11. Het vermoorden van een persoon is niet toegestaan, nadat hij is overvallen.  
+
 
 
 <table border="1">
