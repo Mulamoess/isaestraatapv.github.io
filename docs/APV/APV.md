@@ -480,7 +480,7 @@ Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken 
     </thead>
 </table>
 
-## Artikel 22 - Voicechanger & Microfoon
+## Artikel 23 - Voicechanger & Microfoon
 1. Alleen het verlagen van je stem is toegestaan, niet het verhogen ervan.
 2. Het is toegestaan om een voice-changer te gebruiken voor criminele activiteiten en bij bijkomende taken van de politie.
 3. Iedereen ingame moet een werkende microfoon hebben.
