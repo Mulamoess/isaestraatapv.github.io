@@ -282,7 +282,15 @@
 3. Het is verboden om tussen 00:30 en 12:00 uit het cellencomplex te breken.
 4. Er moet te allen tijde een politieaantal van 10 of meer beschikbaar zijn. Als er 6 tot 10 politieagenten aanwezig zijn, is ontsnappen niet toegestaan.
 
-<b>Bij overtreding zal gestraft worden volgens de 1e categorie.</b>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 1: Een waarschuwing + 25 uur taakstraf</b></th>
+        </tr>
+    </thead>
+</table>
+
 
 ## Artikel 13 - Winkel- en bankovervallen & overige criminaliteit
 1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
