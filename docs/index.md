@@ -32,7 +32,7 @@ Dank voor je medewerking en veel plezier in onze stad!
         <tr>
             <td>ISAE Straat Support</td> 
             <td>Support discord server van ISAE Straat	</td>
-            <td><a href="https://discord.gg/CudDduW5dh"  target="_blank" rel="noopener">Invite</a></td>
+            <td><a href="https://discord.gg/CBXdzqgKhE"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
         <tr>
             <td>ISAE Straat Overheid</td>
