@@ -349,40 +349,179 @@ Het niet meewerken wordt beschouwd als het niet waarderen van je eigen leven, om
 </table>
 <b>Straf kan hoger uitvallen afhankelijk van de ernst van het plegen van metagaming.</b>
 
-## Algemene Regels:
+## Artikel 17 - Vehicle Death Match (VDM)
+1. De persoon die opzettelijk een ander aanrijdt met de intentie om die persoon te doden of zijn voertuig bewust als een wapen gebruikt.
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+        </tr>
+        <tr>
+            <th>VDM:</th>
+            <th><b>Categorie 1: Een waarschuwing + 25 uur taakstraf</b></th>
+        </tr>
+        <tr>
+            <th>Massa VDMS:</th>
+            <th><b>Categorie 4: Een ban van maximaal 2 dagen</b></th>
+        </tr>
+    </thead>
+</table>
 
-1. Geen Cheats: Gebruik van cheats leidt tot een directe ban.
-2. Geen Cop-baiting: Uitlokken of uitdagen van de politie is verboden.
-3. Geen Combat Logging: De server verlaten tijdens ontvoeringen of conflicten is niet toegestaan.
-4. Geen Exploits: Misbruik van bugs of misstanden voor eigen gewin.
-5. Geen FailRP: Roleplay van lage kwaliteit, onrealistisch gedrag.
-6. Geen Metagaming: Gebruik van informatie die je karakter niet kan weten.
-7. Geen OOC-praten: Out-of-character praten is verboden.
-8. Geen RDM: Willekeurig mensen of dieren doden zonder reden.
-9. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
-10. Geen VDM: Voertuiggevecht, je wagen als wapen gebruiken.
-11. Gebruik /report voor meldingen: Verbeter de RP-ervaring door regelovertredingen te rapporteren.
-12. Geen verstorend gedrag: Mic spammen, trollen, enz. zijn niet toegestaan.
-13. Beperkt schelden: Gebruik van ernstige scheldwoorden is streng verboden.
-14. Realistisch blijven: Onrealistische situaties vermijden, zoals racen met exotische auto's door de woestijn.
-15. Verplicht een microfoon: Communiceren en roleplayen vereist een werkende microfoon.
-16. Nederlands spreken: De voertaal is Nederlands.
-17. Alleen contant geld stelen: Bankgeld kan niet gestolen worden.
-18. Zuinig met leven: Geen zelfmoord zonder reden.
-19. Geheugenverlies na respawn: Na respawn weet je niet hoe je bent gestorven.
-20. Donatie voertuigen uit de shop mogen **niet** door verkocht worden. (Accountwipe) 
-21. Als je in dienst bent bij een overheidsinstantie, maar niet aan het werk bent dan zien we dit als moneyfarmen. (Accountwipe)
+## Artikel 18 - Random Death Match (RDM)
+1. Het zonder enige geldige reden random doden van spelers.
+2. Het doden van iemand omdat die persoon niet wil deelnemen aan een mondelinge activiteit.
+3. Wanneer een van de bovenstaande regels wordt overtreden, zal het gebruikte wapen automatisch worden in beslag genomen.
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+        </tr>
+        <tr>
+            <th>RDM:</th>
+            <th>Categorie 2: Een ban maximaal 10 uur</th>
+            <th>Wapen ingenomen</th>            
+        </tr>
+                <tr>
+            <th>Massa RDM:</th>
+            <th>Categorie 6: Een ban van maximaal 1 week</th>
+            <th>Alle wapens ingenomen</th>            
+        </tr>
+    </thead>
+</table>
+
+## Artikel 19 - Copbaiten
+1. Onder Copbaiten wordt verstaan: Het opzettelijk opzoeken, irriteren of uitlokken van politie en/of andere overheidsinstanties.
+2. Als je niet bij een roleplay scenario hoort, dan heb je ook geen reden om betrokken te zijn bij aanhoudingen, overvallen, enzovoort.
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 2: Een ban maximaal 10 uur</b></th>
+        </tr>
+    </thead>
+</table>
+
+## Artikel 20 - FailRP
+Onder FailRP wordt verstaan: Het opzettelijk verpesten of slecht uitvoeren van, niet meewerken aan een scenario.
+
+<b>Paar voorbeelden hiervan zijn:</b>
+
+<b>Categorie 1</b>
+
+- Het onjuist gebruiken van een /me-commando, omdat dit alleen bedoeld is voor interacties.
+- Het stelen van een voertuig of inhoud zonder enige aanleiding.
+- Praten terwijl je dood bent.
+- Het is niet toegestaan om je voor te doen als een overheidsmedewerker met of zonder de bijbehorende kleding.
+- Het slecht uitvoeren van een scenario.
+- Het gebruik van elektronische communicatiemiddelen in het water is niet toegestaan.
+- Het niet meewerken na een behandeling door ambulancepersoneel.
+- Een blokkade mag alleen worden uitgevoerd als er geen inzittenden in het voertuig zitten.
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 3: Een ban van maximaal 1 dag</b></th>
+        </tr>
+    </thead>
+</table>
+
+<b>Categorie 2</b>
+
+- Het niet meewerken in een roleplay scenario.
+- Het opzettelijk doorgeven van een onjuiste porto frequentie.
+- Het wegzetten van je voertuig tijdens een achtervolging om te voorkomen dat je voertuig in beslag wordt genomen.
+- Na een crash waarbij jouw auto over de kop is gevlogen en/of de crash harder ging dan 80km/u terwijl je in achtervolging bent, ben je in principe uitgeschakeld en wordt er van je verwacht dat je een Roleplay uitvoert waarin je gewond bent.
+- Doorrijden, doorschieten, vluchten, rennen of zwemmen na een zware crash zoals hierboven beschreven.
+- Nadat je in je benen bent geschoten, binnen 3 minuten een voertuig besturen om een achtervolging aan te gaan met als doel communicatie door te geven.
+- Ongewenst gedrag, zoals willekeurig op mensen inslaan zonder enige vorm van roleplay.
+- Het is niet toegestaan om je voor te doen als een overheidsmedewerker, met of zonder bijbehorende kleding.
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 5: Een ban van maximaal 3 dagen</b></th>
+        </tr>
+    </thead>
+</table>
+
+## Artikel 21 - Karakter breken (OOC)
+Onder karakterbreuk OOC wordt verstaan: Termen gebruiken die je niet in je karakter kunt gebruiken, dus out of character.
+<b>Paar voorbeelden hiervan zijn:</b>
+
+- Report
+- Staffleden
+- Ticket
+- VDM
+- RDM
+- Desync
+
+Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken met als reden dat dit scenario verstorend kan werken. Maak na afloop van het betreffende scenario een report aan of open een ticket.
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 2: Een ban maximaal 10 uur</b></th>
+        </tr>
+    </thead>
+</table>
+
+## Artikel 22 - Campen van locaties
+- Het campen van illegale / criminele locaties is toegestaan.
+- Wanneer je iemand hebt overvallen, moet je die persoon gedurende drie uur met rust laten, behalve als hij/zij in die tijd bijvoorbeeld een wapen draagt.
+- Campen van startlocaties is niet toegestaan.
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 4: Een ban van maximaal 2 dagen</b></th>
+        </tr>
+    </thead>
+</table>
+
+## Artikel 22 - Voicechanger & Microfoon
+1. Alleen het verlagen van je stem is toegestaan, niet het verhogen ervan.
+2. Het is toegestaan om een voice-changer te gebruiken voor criminele activiteiten en bij bijkomende taken van de politie.
+3. Iedereen ingame moet een werkende microfoon hebben.
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 2: Een ban maximaal 10 uur</b></bCategorie></th>
+        </tr>
+    </thead>
+</table>
+
+
+
+
+
 
 
 ### Specifieke Regels:
-
-20. Agenten die niet in-game zijn, mogen niet deelnemen aan overvallen.
-21. Buiten-game communicatie is verboden, behalve voor overheidsdiensten in specifieke kanalen.
-22. Gebruik Twitter voor in-character berichten.
-23. Geen adverteren: Eigen servers of Discord adverteren is niet toegestaan.
-24. Geen uitwisseling op alt-accounts: Uitwisselen van geld of materiaal op alternatieve accounts is verboden.
-25. Geen voertuigen van jobs voor criminaliteit: Bijvoorbeeld geen vuilniswagen gebruiken voor criminele activiteiten.
-26. Na moord door rivaliserende bende, 24 uur geen deelname aan wraakacties of roleplay.
-27. Niet ontsnappen aan AFK-kick.
-28. Verboden ambulanciers of ANWB-medewerkers te doden of ontvoeren tijdens oproepen.
-29. Zero tolerance bij overheidsdiensten: Geen betrokkenheid bij drugs of criminele activiteiten. Verkoop of weggeven van overheidsvoorwerpen is verboden.
+1. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
+2. Gebruik /report voor meldingen: Verbeter de RP-ervaring door regelovertredingen te rapporteren.
+3. Geen verstorend gedrag: Mic spammen, trollen, enz. zijn niet toegestaan.
+4. Beperkt schelden: Gebruik van ernstige scheldwoorden is streng verboden.
+5. Realistisch blijven: Onrealistische situaties vermijden, zoals racen met exotische auto's door de woestijn.
+6. Verplicht een microfoon: Communiceren en roleplayen vereist een werkende microfoon.
+7. Nederlands spreken: De voertaal is Nederlands.
+8. Alleen contant geld stelen: Bankgeld kan niet gestolen worden.
+9. Als je in dienst bent bij een overheidsinstantie, maar niet aan het werk bent dan zien we dit als moneyfarmen. (Accountwipe)
+10. Geheugenverlies na respawn: Na respawn weet je niet hoe je bent gestorven.
+11. Donatie voertuigen uit de shop mogen **niet** door verkocht worden. (Accountwipe) 
+12. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
+13. Agenten die niet in-game zijn, mogen niet deelnemen aan overvallen.
+14. Buiten-game communicatie is verboden, behalve voor overheidsdiensten in specifieke kanalen.
+15. Gebruik Twitter voor in-character berichten.
+16. Geen adverteren: Eigen servers of Discord adverteren is niet toegestaan.
+17. Geen uitwisseling op alt-accounts: Uitwisselen van geld of materiaal op alternatieve accounts is verboden.
+18. Geen voertuigen van jobs voor criminaliteit: Bijvoorbeeld geen vuilniswagen gebruiken voor criminele activiteiten.
+19. Na moord door rivaliserende bende, 24 uur geen deelname aan wraakacties of roleplay.
+20. Niet ontsnappen aan AFK-kick.
+21. Verboden ambulanciers of ANWB-medewerkers te doden of ontvoeren tijdens oproepen.
+22. Zero tolerance bij overheidsdiensten: Geen betrokkenheid bij drugs of criminele activiteiten. Verkoop of weggeven van overheidsvoorwerpen is verboden.
+23. Als een band ontploft en je alleen nog de velg over hebt, is het niet toegestaan om door te rijden.
+24. Het is verboden om iemand te dwingen zijn camper te openen en vervolgens zijn eigendommen te stelen.
