@@ -57,8 +57,12 @@ Dank voor je medewerking en veel plezier in onze stad!
     </thead>
     <tbody>
         <tr>
+            <td>Staff Sollicitatie's</td>
+            <td><a href="https://forms.gle/cXokMYVzojA5qpq36"  target="_blank" rel="noopener">Solliciteren</a></td>
+        </tr>
+        <tr>
             <td>Politie Sollicitatie's</td>
-            <td><a href="https://forms.gle/1fzECdoqc45Cuwwc8"  target="_blank" rel="noopener">Solliciteren</a></td>
+            <td><a href="https://forms.gle/wjbQP3Sa1NpD5kCG9"  target="_blank" rel="noopener">Solliciteren</a></td>
         </tr>
         <tr>
             <td>Wegenwacht Sollicitatie's</td>
