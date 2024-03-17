@@ -475,9 +475,8 @@ Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken 
 </table>
 
 ## Artikel 22 - Campen van locaties
-- Het campen van illegale / criminele locaties is toegestaan.
+- Het campen op locaties is **niet** toegestaan.
 - Wanneer je iemand hebt overvallen, moet je die persoon gedurende drie uur met rust laten, behalve als hij/zij in die tijd bijvoorbeeld een wapen draagt.
-- Campen van startlocaties is niet toegestaan.
 
 <table border="1">
     <thead>
