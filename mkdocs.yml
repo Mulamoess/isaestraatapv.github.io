@@ -6,8 +6,8 @@ theme:
     primary: indigo
     
   site_author: 'ISAE Straat - Hoge Raad'
-  logo: https://cdn.discordapp.com/icons/1118530001176907838/387ee8bd98a8e5e101324653b26330be.webp?size=512
-  favicon: https://cdn.discordapp.com/icons/1118530001176907838/387ee8bd98a8e5e101324653b26330be.webp?size=512
+  logo: https://cdn.discordapp.com/icons/1118530001176907838/a_36668a8cf72323c8e09c373729337df7.webp?size=96
+  favicon: https://cdn.discordapp.com/icons/1118530001176907838/a_36668a8cf72323c8e09c373729337df7.webp?size=96
 
   language: nl 
   features:
@@ -56,7 +56,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://www.discord.gg/isaestraat
   favicon: assets/favicon.ico
-  logo: "assets/logo.png"  # Replace with the path to your logo file
+  logo: "img/logo.png"  # Replace with the path to your logo file
 
 plugins:
   - search:
