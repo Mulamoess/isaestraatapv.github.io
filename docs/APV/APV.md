@@ -532,4 +532,5 @@ Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken 
 22. Zero tolerance bij overheidsdiensten: Geen betrokkenheid bij drugs of criminele activiteiten. Verkoop of weggeven van overheidsvoorwerpen is verboden.
 23. Als een band ontploft en je alleen nog de velg over hebt, is het niet toegestaan om door te rijden.
 24. Het is verboden om iemand te dwingen zijn stashplekken te openen en vervolgens zijn eigendommen te stelen. (Exclusief auto's)
-25. Als je in een achtervolging zit, mag je niet opzettelijk het water inrijden. 
+25. Wanneer je in een achtervolging zit, is het niet toegestaan om opzettelijk het water in te rijden.
+26. Wanneer je betrokken bent bij een achtervolging, is het niet toegestaan om over te stappen naar een donatievoertuig.
