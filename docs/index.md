@@ -32,12 +32,17 @@ Dank voor je medewerking en veel plezier in onze stad!
         <tr>
             <td>ISAE Straat Support</td> 
             <td>Support discord server van ISAE Straat	</td>
-            <td><a href="https://discord.gg/CBXdzqgKhE"  target="_blank" rel="noopener">Invite</a></td>
+            <td><a href="https://discord.gg/2AMHbdvprP"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
         <tr>
             <td>ISAE Straat Overheid</td>
             <td>Overheidsinstanties discord server van ISAE Straat</td>
-            <td><a href="https://discord.gg/X3ddxvgcWd"  target="_blank" rel="noopener">Invite</a></td>
+            <td><a href="https://discord.gg/X5N5snFsUT"  target="_blank" rel="noopener">Invite</a></td>
+        </tr>
+        <tr>
+            <td>ISAE Straat Overheid</td>
+            <td>Makelaar discord server van ISAE Straat</td>
+            <td><a href="https://discord.gg/XQ7D255NbW"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
 </table>
 
