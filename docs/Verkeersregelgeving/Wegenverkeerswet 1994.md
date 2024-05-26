@@ -221,7 +221,7 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 1. Op de eerste vordering van de in artikel 159 bedoelde personen is de bestuurder van een motorrijtuig verplicht dat motorrijtuig te doen stilhouden, alsmede de volgende bewijzen behoorlijk ter inzage af te geven:
 
 
-    a. Het rijbewijs, dan wel het hem door het daartoe bevoegde gezag binnen ISAE Straat.
+    a. Het rijbewijs, dan wel het hem door het daartoe bevoegde gezag binnen Liberty Life.
 
 
 2. Op de eerste vordering van de in artikel 159 bedoelde personen is de bestuurder van een voertuig, niet zijnde een motorrijtuig, verplicht dat voertuig te doen stilhouden.

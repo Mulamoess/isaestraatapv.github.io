@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening ISAE Straat
+# Algemene Plaatselijke Verordening Liberty Life
 
 
 ## Wetstechnische informatie
@@ -13,11 +13,11 @@
     <tbody>
         <tr>
             <td>Overheidsorganisatie</td>
-            <td>Hoge Raad ISAE Straat</td>
+            <td>Hoge Raad Liberty Life</td>
         </tr>
         <tr>
             <td>Officiële naam regeling</td>
-            <td>Algemene Plaatselijke Verordening ISAE Straat</td>
+            <td>Algemene Plaatselijke Verordening Liberty Life</td>
         </tr>
         <tr>
             <td>Vastgesteld door:</td> 
@@ -31,14 +31,14 @@
 
 
 ## Extra Informatie
-<b>ISAE Straat</b> behoudt zich het recht voor om op elk moment zijn/haar regels te wijzigen, nieuwe regels toe te voegen of bestaande regels in te trekken.
+<b>Liberty Life</b> behoudt zich het recht voor om op elk moment zijn/haar regels te wijzigen, nieuwe regels toe te voegen of bestaande regels in te trekken.
 
 ## Algemene Bepalingen
 
 
 ### A1 - Reikwijdte
 
-1. De Algemene Plaatselijke Verordening (APV) dient als een aanvullende regelgeving op het Nederlands Recht en is van toepassing op het eiland, de gemeente en de stad ISAE Straat.
+1. De Algemene Plaatselijke Verordening (APV) dient als een aanvullende regelgeving op het Nederlands Recht en is van toepassing op het eiland, de gemeente en de stad Liberty Life.
 2. De APV is opgesteld als een richtlijn voor mogelijke bestraffing binnen het spel ("in RP"), maar is in wezen bedoeld voor het beheren van straffen buiten het rollenspel.
 
 ### A2 - Geldigheid
@@ -115,7 +115,7 @@
     - Deze regel is ook van toepassing op de Discord-client zelf, wat betekent dat het gebruik van clients zoals BetterDiscord, Vencord niet is toegestaan.
 2. Hij/zij die opzettelijk een bug en/of exploit misbruikt om voor zichzelf of anderen voordeel te behalen, of in-game functionaliteiten omzeilt, ongeacht de middelen, zal onmiddellijk worden gestraft volgens de 9e categorie.                                                             
 3. Het is niet toegestaan om externe Discords te gebruiken voor roleplay-gerelateerde zaken zonder voorafgaande toestemming van het personeel, inclusief het gebruik van sheets en andere onderlinge zaken. Overtreding van deze regel zal bestraft worden volgens lid 3. Eigenaren van externe Discords waarin metagaming plaatsvindt, zullen een straf ontvangen volgens de 9e categorie.
-4. Wanneer je met meerdere mensen die op ISAE Straat spelen in een voicecall zit, is streamen niet toegestaan, en je moet gedeafened en gemute zijn. Als één persoon in-game is en de rest niet, en je besluit toch in een call te zitten zonder gedeafened/gemute te zijn, ben je in overtreding van deze regel, zoals aangeduid in lid 3.
+4. Wanneer je met meerdere mensen die op Liberty Life spelen in een voicecall zit, is streamen niet toegestaan, en je moet gedeafened en gemute zijn. Als één persoon in-game is en de rest niet, en je besluit toch in een call te zitten zonder gedeafened/gemute te zijn, ben je in overtreding van deze regel, zoals aangeduid in lid 3.
 5. Het streamen van de main server in een Discord-server is nooit toegestaan, tenzij je expliciete toestemming hebt van een stafflid.
 <table border="1">
     <thead>
@@ -130,7 +130,7 @@
 1. Bij het creëren van je personage is het verplicht om de standaardkleding te veranderen; je mag de server niet betreden met de startkleding. Zorg er bovendien voor dat je personage er realistisch uitziet, dat de armen bij de outfit passen en dat er geen ontbrekende lichaamsdelen zijn bij jouw personage.
 2. Werknemers worden geacht de kleding te dragen die is verstrekt door hun werkgever voor de uitoefening van hun beroep.
 3. Het is verboden voor niet-ambtenaren om kleding te dragen die specifiek is toegewezen aan een van de overheidsbanen, tenzij er een passende roleplay aan verbonden is die is goedgekeurd door een stafflid.
-4. Officiële kleding die is verstrekt door ISAE Straat en bedoeld is voor specifieke groeperingen, mag niet door anderen worden gebruikt of als starterskleding worden gekozen, tenzij hier een sterke roleplay aan verbonden is.
+4. Officiële kleding die is verstrekt door Liberty Life en bedoeld is voor specifieke groeperingen, mag niet door anderen worden gebruikt of als starterskleding worden gekozen, tenzij hier een sterke roleplay aan verbonden is.
 
 <b>Als het staffteam dit opmerkt, zal er een mondelinge waarschuwing worden gegeven om dit aan te passen. Anders zullen er consenquenties liggen.</b>
 <table border="1">
@@ -185,7 +185,7 @@
 
 ## Artikel 7 - Beledigingen
 1. Een persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen maakt of andere ongepaste opmerkingen plaatst, wordt bestraft met een ban volgens de 9e categorie. Deze regel is eveneens van kracht op Steam-, Discord- en karakternamen.
-2. Het is tevens niet toegestaan om op de ISAE Straat erkende platforms toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+2. Het is tevens niet toegestaan om op de Liberty Life erkende platforms toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 3. Op lid 1 geldt een uitzondering voor het schelden met hedendaagse relevante ziektes. Bij de eerste overtreding zal dit bestraft worden met een ban van 3 dagen. Bij de tweede overtreding zal de persoon bestraft worden met een ban van 1 week, en bij de derde overtreding zal het leiden tot een ban van een maand.
 <table border="1">
     <thead>
@@ -268,10 +268,10 @@
 
 ## Artikel 11 - Roleplay & Ledenaantal Criminele Organisaties
 
- 1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in ISAE Straat.
+ 1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Liberty Life.
  2. Criminele organisaties mogen een maximaal ledenaantal van 15 personen hebben.
  3. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking ontstaat tussen alle organisaties, en dit mag zeker niet plaatsvinden tijdens het witwassen van geld.
- 4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie, dient dit gemeld te worden volgens het vastgestelde format in het daarvoor aangemaakte kanaal in de ISAE Straat Discord.
+ 4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie, dient dit gemeld te worden volgens het vastgestelde format in het daarvoor aangemaakte kanaal in de Liberty Life Discord.
  5. Wanneer de leden van een server-ondersteunde organisatie opvallend negatief gedrag vertonen, zoals herhaaldelijk combat-gedrag in plaats van roleplay, te veel waarschuwingen, enz. zal een superadmin of hoger beslissen over een passende straf voor deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
 <b>Hier krijg je meestal alleen een officiele gangwarn.</b>

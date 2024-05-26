@@ -17,7 +17,7 @@ Het lijkt erop dat je informatie geeft over hoe de wet wordt toegepast in het ge
 #### Artikel 2 Opw [Verbodsbepaling. Lijst I, aangewezen middelen]
 Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I:
 
-* Binnen of buiten het grondgebied van ISAE Straat te brengen.
+* Binnen of buiten het grondgebied van Liberty Life te brengen.
 * Te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren.
 * Aanwezig te hebben.
 * Te vervaardigen.

@@ -6,9 +6,9 @@
 1. Geen handeling is strafbaar, tenzij deze voortvloeit uit een eerder vastgestelde wettelijke bepaling die het als zodanig bestempelt.
 2. In geval van wijzigingen in de wetgeving na het tijdstip van het begane feit, worden de bepalingen die het gunstigst zijn voor de verdachte toegepast.
 
-#### Artikel 2 WvSr [Toepasselijkheid binnen ISAE Straat territoir]
+#### Artikel 2 WvSr [Toepasselijkheid binnen Liberty Life territoir]
 
-De ISAE Straat strafwet is toepasselijk op ieder die zich in ISAE Straat aan enig strafbaar feit schuldig maakt.
+De Liberty Life strafwet is toepasselijk op ieder die zich in Liberty Life aan enig strafbaar feit schuldig maakt.
 
 ### Titel II [Straffen]#
 
@@ -103,7 +103,7 @@ Hij die een handeling verricht onder dwang van overmacht is niet strafbaar.
 
 #### Artikel 44 WvSr [Strafverhoging voor ambtenaar]#
 1. Als een ambtenaar door het plegen van een strafbaar feit een specifieke ambtsplicht schendt of gebruikmaakt van de macht, gelegenheid of middelen die hem door zijn ambt zijn verleend, kan de op het feit gestelde straf, met uitzondering van een geldboete, met een derde worden verhoogd.
-2. Een persoon in dienst van een buitenlandse staat die in ISAE Straat op een door het internationaal recht toegestane wijze zijn functie uitoefent, wordt gelijkgesteld met een ambtenaar.
+2. Een persoon in dienst van een buitenlandse staat die in Liberty Life op een door het internationaal recht toegestane wijze zijn functie uitoefent, wordt gelijkgesteld met een ambtenaar.
 
 ### Titel IV [Poging en voorbereiding]
 
