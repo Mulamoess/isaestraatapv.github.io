@@ -1,6 +1,6 @@
 
 
-Welkom op de pagina voor de wet- en regelgeving van <b>ISAE Straat!</b>
+Welkom op de pagina voor de wet- en regelgeving van <b>Liberty Life!</b>
 
 Op deze pagina kun je een overzicht vinden van alle regels die van toepassing zijn in onze stad, zowel op het gebied van roleplay als de serverregels.
 
@@ -8,7 +8,7 @@ De algemene plaatselijke verordening (<b>APV</b>) omvat alle regels die specifie
 
 Bovendien bestaan er specifieke regels die betrekking hebben op verschillende aspecten en situaties. Deze regels zijn geformuleerd om uiteenlopende kwesties te reguleren en dragen bij aan het creëren van een geordende en respectvolle omgeving voor alle deelnemers.
 
-We moedigen je aan om deze regels zorgvuldig door te nemen, zodat we samen een positieve en veilige omgeving kunnen handhaven binnen ISAE Straat. Bij eventuele vragen kun je altijd contact opnemen met de Hoge Raad.
+We moedigen je aan om deze regels zorgvuldig door te nemen, zodat we samen een positieve en veilige omgeving kunnen handhaven binnen Liberty Life. Bij eventuele vragen kun je altijd contact opnemen met de Hoge Raad.
 
 Dank voor je medewerking en veel plezier in onze stad!
 
@@ -25,30 +25,30 @@ Dank voor je medewerking en veel plezier in onze stad!
     </thead>
     <tbody>
         <tr>
-            <td>ISAE Straat</td>
-            <td>Main discord server van ISAE Straat</td>
-            <td><a href="https://www.discord.gg/isaestraat"  target="_blank" rel="noopener">Invite</a></td>
+            <td>Liberty Life</td>
+            <td>Main discord server van Liberty Life</td>
+            <td><a href="https://www.discord.gg/libertylife"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
         <tr>
-            <td>ISAE Straat Support</td> 
-            <td>Support discord server van ISAE Straat	</td>
-            <td><a href="https://discord.gg/2AMHbdvprP"  target="_blank" rel="noopener">Invite</a></td>
+            <td>Liberty Life Support</td> 
+            <td>Support discord server van Liberty Life	</td>
+            <td><a href="https://discord.gg/"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
         <tr>
-            <td>ISAE Straat Overheid</td>
-            <td>Overheidsinstanties discord server van ISAE Straat</td>
-            <td><a href="https://discord.gg/X5N5snFsUT"  target="_blank" rel="noopener">Invite</a></td>
+            <td>Liberty Life Overheid</td>
+            <td>Overheidsinstanties discord server van Liberty Life</td>
+            <td><a href="https://discord.gg/"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
         <tr>
-            <td>ISAE Straat Overheid</td>
-            <td>Makelaar discord server van ISAE Straat</td>
-            <td><a href="https://discord.gg/XQ7D255NbW"  target="_blank" rel="noopener">Invite</a></td>
+            <td>Liberty Life Overheid</td>
+            <td>Makelaar discord server van Liberty Life</td>
+            <td><a href="https://discord.gg/"  target="_blank" rel="noopener">Invite</a></td>
         </tr>
 </table>
 
 !!! info ""
 
-    De Algemene Plaatselijke Verordening (APV) is opgesteld namens de Hoge Raad en is van toepassing op het eiland, de gemeente en de stad genaamd "ISAE Straat".
+    De Algemene Plaatselijke Verordening (APV) is opgesteld namens de Hoge Raad en is van toepassing op het eiland, de gemeente en de stad genaamd "Liberty Life".
 
 
 ## Overheids Sollicitatie's
