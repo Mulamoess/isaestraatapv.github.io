@@ -1,11 +1,11 @@
-site_name: ISAE STRAAT - APV
+site_name: Liberty Life - APV
 theme:
   name: material
   palette:
     scheme: slate
     primary: indigo
     
-  site_author: 'ISAE Straat - Hoge Raad'
+  site_author: 'Liberty Life - Hoge Raad'
   logo: https://cdn.discordapp.com/icons/1118530001176907838/a_36668a8cf72323c8e09c373729337df7.webp?size=96
   favicon: https://cdn.discordapp.com/icons/1118530001176907838/a_36668a8cf72323c8e09c373729337df7.webp?size=96
 
@@ -52,9 +52,9 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@isaenl
+      link: https://www.youtube.com/libertylife
     - icon: fontawesome/brands/discord
-      link: https://www.discord.gg/isaestraat
+      link: discord.gg/libertylife
   favicon: assets/favicon.ico
   logo: "img/logo.png"  # Replace with the path to your logo file
 
@@ -87,7 +87,7 @@ markdown_extensions:
 
 
 copyright: |
-  Copyright &copy;  2023 <a href="https://www.discord.gg/isaestraat"  target="_blank" rel="noopener">ISAE Straat</a>
+  Copyright &copy;  2023 <a href="https://discord.gg/libertylife"  target="_blank" rel="noopener">Liberty Life</a>
 
 nav:
   - Homepagina: index.md
