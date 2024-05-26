@@ -7,9 +7,9 @@ theme:
 
     google_analytics: ['G-TMEEKBJVZ0', 'libertylife.nl']
     
-  site_author: 'Liberty Life - Hoge Raad'
-  logo:   logo: img/logo.webp
-  favicon: mg/logo.png
+  site_author: 'Liberty Life - Bestuur'
+  logo: https://cdn.discordapp.com/attachments/1221292274995167343/1244278292090064916/Untitlefd.png?ex=665487f6&is=66533676&hm=59c85ed64f176b61d6cc9ae78c7d03372f2307fb79793ed1d2ecbd05ab22dc54&
+  favicon: https://cdn.discordapp.com/attachments/1221292274995167343/1244276528129245274/logo.png?ex=66548651&is=665334d1&hm=3b5e9e2108a0fd5dd07fd9f815752cfbf979d34e62dae024f09c450a9b18a509&
 
   language: nl 
   features:
