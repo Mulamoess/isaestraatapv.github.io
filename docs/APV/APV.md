@@ -501,11 +501,58 @@ Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken 
     </thead>
 </table>
 
+## Artikel 24 - Zelfmoord
+1. In het geval van zelfmoord krijgt de speler een accountwipe. Daarnaast krijgt hij een hele nieuwe personage.
 
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 8: Account wipe</b></bCategorie></th>
+        </tr>
+    </thead>
+</table>
 
+## Artikel 25 - Roleplay Verstoren
+1. Voertuigen die worden achtergelaten op verwijdercirkels of andere cirkels blokkeren met een voertuig, worden beschouwd als verstorend gedrag binnen de roleplay.
+2. Degene die opzettelijk de roleplays van andere spelers verstoort, handelt in strijd met de regels en belemmert de spelervaring van anderen.
 
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 5: Een ban van maximaal 3 dagen</b></bCategorie></th>
+        </tr>
+    </thead>
+</table>
 
+## Artikel 26 - Karakter breken
+Het is te allen tijde verboden om uit je rol te vallen. Dit betekent dat je geen enkele term mag gebruiken die als OOC (out of character) wordt beschouwd. Dit omvat ook termen zoals "report", "admin", "ticket" en vergelijkbare woorden.
 
+Het is tevens verboden om te vermelden dat iemand een artikel van de Algemene Plaatselijke Verordening (APV) heeft overtreden. Indien iemand een artikel van de APV heeft overtreden, volg dan de juiste procedures, zoals het aanmaken van een report of een ticket.
+
+Het verbod zoals beschreven in lid 1 & 2 is niet van toepassing op de staffleden wanneer zij een gesprek voeren in het kader van hun taken als stafflid. Deze uitzondering geldt ook voor de personen met wie zij in gesprek zijn.
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 5: Een ban van maximaal 3 dagen</b></bCategorie></th>
+        </tr>
+    </thead>
+</table>
+
+## Artikel 27 - IRL Traiding
+Het is ten strengste verboden om in-game items, geld, voertuigen, of wapens te verhandelen voor echt geld of andere zaken buiten de game, zelfs als dit plaatsvindt buiten de spelomgeving of in een andere stad.
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Straf:</th>
+            <th><b>Categorie 8: Account wipe (Koper & Verkoper)</b></bCategorie></th>
+        </tr>
+    </thead>
+</table>
 
 ### Specifieke Regels:
 1. Geen Spam: Overmatig spammen van nutteloze berichten is niet toegestaan.
