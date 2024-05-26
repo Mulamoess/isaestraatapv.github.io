@@ -535,6 +535,3 @@ Tot slot is het ook niet toegestaan om tijdens een scenario een report te maken 
 25. Wanneer je in een achtervolging zit, is het niet toegestaan om opzettelijk het water in te rijden.
 26. Wanneer je betrokken bent bij een achtervolging, is het niet toegestaan om over te stappen naar een donatievoertuig.
 
-
-
-MrKin Stinkt
