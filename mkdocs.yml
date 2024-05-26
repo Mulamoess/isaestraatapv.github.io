@@ -4,10 +4,12 @@ theme:
   palette:
     scheme: slate
     primary: indigo
+
+    google_analytics: ['G-TMEEKBJVZ0', 'libertylife.nl']
     
   site_author: 'Liberty Life - Hoge Raad'
-  logo: https://cdn.discordapp.com/icons/1118530001176907838/a_36668a8cf72323c8e09c373729337df7.webp?size=96
-  favicon: https://cdn.discordapp.com/icons/1118530001176907838/a_36668a8cf72323c8e09c373729337df7.webp?size=96
+  logo:   logo: img/logo.webp
+  favicon: mg/logo.png
 
   language: nl 
   features:
@@ -47,6 +49,13 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
+  - git-revision-date-localized:
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+  - search:
+      lang: nl
  
 
 extra:
@@ -57,6 +66,10 @@ extra:
       link: discord.gg/libertylife
   favicon: assets/favicon.ico
   logo: "img/logo.png"  # Replace with the path to your logo file
+  analytics:
+    provider: google
+    property: G-TMEEKBJVZ0
+  
 
 plugins:
   - search:
