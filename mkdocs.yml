@@ -8,8 +8,8 @@ theme:
     google_analytics: ['G-TMEEKBJVZ0', 'libertylife.nl']
     
   site_author: 'Liberty Life - Bestuur'
-  logo: https://media.discordapp.net/attachments/1221292274995167343/1244357944787603496/LLRP-ICON-LOGO-MAIN-1.jpg?ex=6654d225&is=665380a5&hm=b94e379c5ba72243a55bfd98513debb16e235274e49940587f3696a5ab5b7792&format=webp&width=676&height=676&
-  favicon: https://media.discordapp.net/attachments/1221292274995167343/1244357944787603496/LLRP-ICON-LOGO-MAIN-1.jpg?ex=6654d225&is=665380a5&hm=b94e379c5ba72243a55bfd98513debb16e235274e49940587f3696a5ab5b7792&format=webp&width=676&height=676&
+  logo: https://cdn.discordapp.com/attachments/1221292274995167343/1246864690949259374/LLRP_ICON_LOGO_transparent-1.png?ex=665df0bb&is=665c9f3b&hm=b4800097f394e17c014bbf4606b6548ef63752095216c7ae345f39fcad75c914&
+  favicon: https://cdn.discordapp.com/attachments/1221292274995167343/1246864690949259374/LLRP_ICON_LOGO_transparent-1.png?ex=665df0bb&is=665c9f3b&hm=b4800097f394e17c014bbf4606b6548ef63752095216c7ae345f39fcad75c914&
 
   language: nl 
   features:
@@ -64,8 +64,6 @@ extra:
       link: https://www.youtube.com/libertylife
     - icon: fontawesome/brands/discord
       link: discord.gg/libertylife
-  favicon: assets/favicon.ico
-  logo: "img/logo.png"  # Replace with the path to your logo file
   analytics:
     provider: google
     property: G-TMEEKBJVZ0
