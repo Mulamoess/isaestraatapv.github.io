@@ -120,7 +120,7 @@ Hij die een handeling verricht onder dwang van overmacht is niet strafbaar.
 4. De aanvullende straffen voor voorbereiding zijn dezelfde als die voor het voltooide misdrijf.
 
 #### Artikel 46a WvSr [Poging ander tot misdrijf te bewegen]
-Poging om een ander door een van de in [artikel 47](https://isaestraat.nl/WVS/#artikel-47-wvsr-soorten-daders), eerste lid, onder 2e, vermelde middelen te bewegen een misdrijf te begaan, is strafbaar. Hierbij geldt dat geen zwaardere straf wordt opgelegd dan voor poging tot het misdrijf, of als poging niet strafbaar is, dan voor het misdrijf zelf kan worden opgelegd.
+Poging om een ander door een van de in [artikel 47](https://libertylife.nl/WVS/#artikel-47-wvsr-soorten-daders), eerste lid, onder 2e, vermelde middelen te bewegen een misdrijf te begaan, is strafbaar. Hierbij geldt dat geen zwaardere straf wordt opgelegd dan voor poging tot het misdrijf, of als poging niet strafbaar is, dan voor het misdrijf zelf kan worden opgelegd.
 
 #### Artikel 46b WvSr [Vrijwillige niet-voltooiing misdrijf]
 Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid als gevolg van omstandigheden die afhankelijk zijn van de wil van de dader.

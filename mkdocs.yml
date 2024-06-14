@@ -1,6 +1,7 @@
 site_name: Liberty Life - APV
 theme:
   name: material
+    custom_dir: overrides
   palette:
     scheme: slate
     primary: indigo
